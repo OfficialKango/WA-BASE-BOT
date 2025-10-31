@@ -14,10 +14,10 @@ With this base, you can easily add new commands every day and build your own ful
 Each episode adds 1–2 new commands so you can follow along and grow your bot step by step — even if you don’t know how to code.
 
 👨‍💻 Base Project by [Debraj](https://t.me/debrajzero)  
-🎥 Tutorials & Upgrades by **Official Kango**  
+🎥 Tutorials & Upgrades by **Hector Manuel**  
 🔗 Library: [Baileys by @WhiskeySockets](https://github.com/WhiskeySockets/Baileys)
 
 📺 YouTube: [Hector Manuel](https://youtube.com/@official_manuel)  
-💬 Telegram: [Offical Channel](https://t.me/kangoxmd)
+💬 Telegram: [Official Channel](https://t.me/kangoxmd)
 
 > “Small daily progress builds big results.” – Hector Manuel
